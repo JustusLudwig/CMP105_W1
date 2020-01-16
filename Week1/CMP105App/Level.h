@@ -20,5 +20,10 @@ private:
 	sf::RenderWindow* window;
 
 	sf::RectangleShape rect;
+	sf::RectangleShape rect1;
+	sf::RectangleShape rect2;
+	sf::RectangleShape rect3;
+	sf::Font font;
+	sf::Text text;
 	sf::CircleShape circle;
 };
